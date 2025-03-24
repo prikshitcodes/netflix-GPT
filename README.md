@@ -64,26 +64,6 @@ To run this project, you will need to add the following environment variables to
 - Get you OpenAI Platform API key<a href="https://platform.openai.com/"> Here</a>
 - Get you TMDB API key<a href="https://developer.themoviedb.org/reference/intro/getting-started"> Here</a>
 
-### :running: Run Locally
-
-Clone the project
-
-```bash
-https://github.com/gyandeeparyan/netflix-gpt
-```
-
-Go to the project directory
-
-```bash
-cd netflix-gpt
-```
-
-Install dependencies
-
-```bash
-npm i
-```
-
 Start the server
 
 ```bash
