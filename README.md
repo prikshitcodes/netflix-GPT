@@ -78,4 +78,3 @@ To deploy this project run
 firebase deploy
 ```
 
-Project Link: [https://github.com/gyandeeparyan/netflix-gpt](https://github.com/gyandeeparyan/netflix-gpt)
